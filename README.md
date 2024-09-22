@@ -1,2 +1,1 @@
-# Causal-DiffuseVAE
-Will be released soon
+# Will be released soon
