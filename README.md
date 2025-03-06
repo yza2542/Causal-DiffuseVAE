@@ -3,6 +3,10 @@ The shadow datasets could be downloaded from https://drive.google.com/file/d/1dn
 
 This is official repository for paper Enhancing Data Efficiency with a Trustworthy Counterfactual Generative Model
 
+The structure of the model is:
+
+! [image] (https://github.com/yza2542/Causal-DiffuseVAE/blob/main/resource/structure.png)
+
 To train the VAE model, the following code is used:
 
 For shadow Datasets
