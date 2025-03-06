@@ -4,11 +4,15 @@ The shadow datasets could be downloaded from https://drive.google.com/file/d/1dn
 This is official repository for paper Enhancing Data Efficiency with a Trustworthy Counterfactual Generative Model
 
 To train the VAE model, the following code is used:
-"""sh train_cvae_shadow.sh""" for shadow Datasets
-"""sh train_cvae.sh""" for Synthetic and CelebA Dataset
+
+For shadow Datasets
+'''sh train_cvae_shadow.sh''' 
+
+For Synthetic and CelebA Dataset
+'''sh train_cvae.sh''' 
 
 To train the DDPM model, the following code is used:
-"""sh train_ddpm.sh"""
+'''sh train_ddpm.sh'''
 
 To generate the counterfactual images, the following code is used:
-"""sh test_inference_ddpm.sh"""
+'''sh test_inference_ddpm.sh'''
