@@ -5,7 +5,7 @@ This is official repository for paper Enhancing Data Efficiency with a Trustwort
 
 The structure of the model is:
 
-! [image] (https://github.com/yza2542/Causal-DiffuseVAE/blob/main/resource/structure.png)
+![image](https://github.com/yza2542/Causal-DiffuseVAE/blob/main/resource/structure.png)
 
 To train the VAE model, the following code is used:
 
