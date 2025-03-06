@@ -1,11 +1,16 @@
 # Enhancing Data Efficiency with a Trustworthy Counterfactual Generative Model
-The shadow datasets could be downloaded from https://drive.google.com/file/d/1dnDRICw9kkLB8NNkCAQJmwda6D_Sos21/view?usp=sharing and https://drive.google.com/file/d/1BFfnrnEEIZPTZwu-41AE_kV7yv69qwEx/view?usp=sharing.
-
 This is official repository for paper Enhancing Data Efficiency with a Trustworthy Counterfactual Generative Model
 
 The structure of the model is:
 
 ![image](https://github.com/yza2542/Causal-DiffuseVAE/blob/main/resource/structure.png)
+
+The shadow datasets could be downloaded from https://drive.google.com/file/d/1dnDRICw9kkLB8NNkCAQJmwda6D_Sos21/view?usp=sharing and https://drive.google.com/file/d/1BFfnrnEEIZPTZwu-41AE_kV7yv69qwEx/view?usp=sharing.
+
+The results of the shadow datasets and CelebA dataset are shown as:
+![image](https://github.com/yza2542/Causal-DiffuseVAE/blob/main/resource/result_shadow.png)
+![image](https://github.com/yza2542/Causal-DiffuseVAE/blob/main/resource/result_celeba.png)
+
 
 To train the VAE model, the following code is used:
 
